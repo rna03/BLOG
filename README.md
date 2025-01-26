@@ -31,4 +31,14 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip 
 
 1. Bu repository'yi bilgisayarınıza klonlayın:
    ```bash
+
    git clone https://github.com/kullaniciAdi/EkranNotlari.git
+![Ekran görüntüsü 2025-01-26 001729](https://github.com/user-attachments/assets/ef3bbddc-c905-44b8-b54c-2e928a28b3c5)
+![Ekran görüntüsü 2025-01-26 233804](https://github.com/user-attachments/assets/0654ceab-bf9f-450c-9b15-d102ec9d8113)
+![Ekran görüntüsü 2025-01-26 001810](https://github.com/user-attachments/assets/85370523-3880-424b-b640-e082869e684c)
+![Ekran görüntüsü 2025-01-26 233821](https://github.com/user-attachments/assets/3c1073c9-54d6-4987-925d-741934e846d7)
+![Ekran görüntüsü 2025-01-26 001751](https://github.com/user-attachments/assets/425cad87-e21a-41a0-9d37-bb94f7073829)
+![Ekran görüntüsü 2025-01-26 001804](https://github.com/user-attachments/assets/bf9deacd-750f-4c46-9be1-fc607ebb1cff)
+
+
+
